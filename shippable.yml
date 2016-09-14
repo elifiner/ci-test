@@ -1,4 +1,0 @@
-language: none
-build:
-  pre_ci:
-    - docker-compose build
